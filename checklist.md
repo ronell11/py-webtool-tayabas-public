@@ -1,6 +1,13 @@
 ### Checklist
 =======================
 
+=======================
+- [x] Test Deploy(PythonAnywhere) (completed: 2023-08-07 / 8:30 am)
+    - [x] Virtual Environment
+    - [x] MySql Database
+    - [x] File Storage
+=======================
+
 ## Executive/Superadmin Module
 
 - [ ] Login Page
@@ -30,6 +37,9 @@
     - [ ] System Config
     - [ ] Other Global Settings
 - [ ] Dashboard
+    - [ ] Data Overview
+        - [x] Design Template(Charts,Bargraphs)
+
 
 =======================
 
@@ -39,10 +49,11 @@
     - [x] List of Request(priority:pending)
     - [ ] Manage request[Approve|Decline] (completed: 2023-08-06 / 6:30 am)
     - [x] Print Acknowledgment Letter(?generic template) (completed: 2023-08-06 / 8:00 am)
+    - [ ] Case Study
     - [ ] Searchbar(?search by: Transaction Code)
     - [ ] Dropdown Filter
-        - [ ] Type of Request[Health/Medical|Education|Livelihood|Burial]
-        - [ ] Status of Request[Pending|Approved|Declined]
+        - [x] Type of Request[Health/Medical|Education|Livelihood|Burial] (completed: 2023-08-07 / 5:00 am)
+        - [x] Status of Request[Pending|Approved|Declined] (completed: 2023-08-07 / 5:00 am)
         - [ ] location[BrgyLevel]
     - [ ] Exports
 - [ ] Activity Logging

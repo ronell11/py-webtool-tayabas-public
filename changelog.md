@@ -1,6 +1,28 @@
 # Changelog
 --------------------------------
 --------------------------------
+## [Unreleased] = 2023-08-07
+## [Duration] 12:00 am - 9:00 am, 1:00 pm - 6:00 pm
+
+### Added
+- CSWD request list table filter
+    - request type(e.g. health, education)
+    - request priority(e.g. senior, pwd)
+- Test Deploy(PythonAnywhere)(http://ronell11.pythonanywhere.com/)
+
+### In Progress
+- CSWD related module
+- SUPERADMIN dashboard
+
+### Changed
+- CSWD manage request page
+    - tab navigation instead of single page
+
+### To Be Added
+
+- CSWD request case study
+--------------------------------
+--------------------------------
 ## [Unreleased] = 2023-08-06
 ## [Duration] 12:00 am - 11:00 am
 
@@ -32,7 +54,8 @@
     - Searchbar, Dropdown quicksearch(role, status)
 
 ### In Progress
-- Test deploy(Google Cloud Platform)
+- [ ] Test deploy(Google Cloud Platform)
+- [x] Test deploy(PythonAnywhere)
 
 ### To Be Added
 
